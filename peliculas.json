@@ -1,0 +1,165 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "titulo": "Mi Vecino Totoro",
+        "director": "Hayao Miyazaki",
+        "añoLanzamiento": 1988,
+        "genero": "Fantasía, Aventura",
+        "calificacion": 8.2
+      },
+      {
+        "id": 2,
+        "titulo": "Akira",
+        "director": "Katsuhiro Otomo",
+        "añoLanzamiento": 1988,
+        "genero": "Ciencia ficción, Acción",
+        "calificacion": 8.0
+      },
+      {
+        "id": 3,
+        "titulo": "Ghost in the Shell",
+        "director": "Mamoru Oshii",
+        "añoLanzamiento": 1995,
+        "genero": "Ciencia ficción, Acción",
+        "calificacion": 8.0
+      },
+      {
+        "id": 4,
+        "titulo": "Princesa Mononoke",
+        "director": "Hayao Miyazaki",
+        "añoLanzamiento": 1997,
+        "genero": "Fantasía, Aventura",
+        "calificacion": 8.4
+      },
+      {
+        "id": 5,
+        "titulo": "Evangelion: 2.0 You Can (Not) Advance",
+        "director": "Hideaki Anno, Masayuki, Kazuya Tsurumaki",
+        "añoLanzamiento": 2009,
+        "genero": "Ciencia ficción, Mecha",
+        "calificacion": 8.0
+      },
+      {
+        "id": 6,
+        "titulo": "Cowboy Bebop: Knockin' on Heaven's Door",
+        "director": "Shinichirō Watanabe",
+        "añoLanzamiento": 2001,
+        "genero": "Ciencia ficción, Acción",
+        "calificacion": 8.5
+      },
+      {
+        "id": 7,
+        "titulo": "El Viaje de Chihiro",
+        "director": "Hayao Miyazaki",
+        "añoLanzamiento": 2001,
+        "genero": "Fantasía, Aventura",
+        "calificacion": 8.6
+      },
+      {
+        "id": 8,
+        "titulo": "Grave of the Fireflies",
+        "director": "Isao Takahata",
+        "añoLanzamiento": 1988,
+        "genero": "Drama, Bélico",
+        "calificacion": 8.5
+      },
+      {
+        "id": 9,
+        "titulo": "Perfect Blue",
+        "director": "Satoshi Kon",
+        "añoLanzamiento": 1997,
+        "genero": "Psicológico, Thriller",
+        "calificacion": 8.0
+      },
+      {
+        "id": 10,
+        "titulo": "Death Note: The Last Name",
+        "director": "Shusuke Kaneko",
+        "añoLanzamiento": 2006,
+        "genero": "Misterio, Thriller",
+        "calificacion": 7.7
+      },
+      {
+        "id": 11,
+        "titulo": "Spirited Away",
+        "director": "Hayao Miyazaki",
+        "añoLanzamiento": 2001,
+        "genero": "Fantasía, Aventura",
+        "calificacion": 8.6
+      },
+      {
+        "id": 12,
+        "titulo": "Pokémon: La Película - Mewtwo Contraataca",
+        "director": "Kunihiko Yuyama",
+        "añoLanzamiento": 1998,
+        "genero": "Aventura, Fantasía",
+        "calificacion": 7.9
+      },
+      {
+        "id": 13,
+        "titulo": "Bungo Stray Dogs: Dead Apple",
+        "director": "Takuya Igarashi",
+        "añoLanzamiento": 2018,
+        "genero": "Misterio, Acción",
+        "calificacion": 7.7
+      },
+      {
+        "id": 14,
+        "titulo": "One Piece: Strong World",
+        "director": "Munehisa Sakai",
+        "añoLanzamiento": 2009,
+        "genero": "Aventura, Acción",
+        "calificacion": 7.8
+      },
+      {
+        "id": 15,
+        "titulo": "Pokémon: El Poder de Todos",
+        "director": "Tetsuo Yajima",
+        "añoLanzamiento": 2018,
+        "genero": "Aventura, Fantasía",
+        "calificacion": 7.5
+      },
+      {
+        "id": 16,
+        "titulo": "Bungo Stray Dogs: Beast",
+        "director": "Takuya Igarashi",
+        "añoLanzamiento": 2021,
+        "genero": "Misterio, Acción",
+        "calificacion": 8.0
+      },
+      {
+        "id": 17,
+        "titulo": "One Piece: Film Z",
+        "director": "Tatsuya Nagamine",
+        "añoLanzamiento": 2012,
+        "genero": "Aventura, Acción",
+        "calificacion": 8.0
+      },
+      {
+        "id": 18,
+        "titulo": "Pokémon: Detective Pikachu",
+        "director": "Rob Letterman",
+        "añoLanzamiento": 2019,
+        "genero": "Aventura, Misterio",
+        "calificacion": 6.6
+      },
+      {
+        "id": 19,
+        "Título": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+        "Director": "Hideaki Anno, Kazuya Tsurumaki",
+        "añoLanzamiento": 2021,
+        "Género": "Ciencia ficción, Mecha",
+        "calificacion": 7.9
+      },      
+      {
+        "id": 20,
+        "titulo": "One Piece: Stampede",
+        "director": "Takashi Otsuka",
+        "añoLanzamiento": 2019,
+        "genero": "Aventura, Acción",
+        "calificacion": 7.8
+      }
+    ]
+  }
+  
